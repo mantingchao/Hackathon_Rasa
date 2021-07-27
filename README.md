@@ -7,3 +7,6 @@
    ```$ node app.js```
 
 3. connect http://localhost:5055/
+
+### Custom Actions
+```$ rasa train```
